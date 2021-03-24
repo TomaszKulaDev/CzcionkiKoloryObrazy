@@ -1,4 +1,38 @@
 body {
+background-color: #333;
+font-family: 'Montserrat', sans-serif;
+}
 
-    
+p {
+    color: white;
+}
+span {
+color: yellowgreen;
+font-weight: 700;
+}
+
+i {
+display: block;
+color: aliceblue;
+letter-spacing: 150px;
+margin-left: 50px;
+}
+
+img {
+display:block;
+margin-top: 50px;
+margin-left: 550px;
+width: 350px;
+height: 350px;
+border-radius: 25%;
+}
+
+div>p {
+color: lime;
+font-weight: bolder;
+text-align: center;
+}
+
+ol > li {
+color: linen;
 }
